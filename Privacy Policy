@@ -1,0 +1,106 @@
+Privacy Policy for Subtopic
+
+Effective Date: December 7th, 2024
+
+We at Subtopic are strongly committed to protecting your privacy and ensuring a safe environment for users of all ages. This Privacy Policy explains how we collect, use, and share your information when you use our app.
+
+1. Information We Collect
+When using Subtopic, we collect the following types of information:
+a. Personal Information
+Google Sign-In Data: When signing in with Google, we collect:
+Your email address
+Name
+Profile picture (if available)
+Other account details provided by Google during sign-in process.
+Device ID: We collect and store the device ID to ensure single-device access per account.
+b. Chat Data
+All user interactions, such as questions and AI-generated responses, are stored in cloud storage to allow access on any logged-in device.
+c. Purchase Data
+Details of in-app purchases, such as transaction IDs and credits purchased, but not sensitive payment details.
+
+2. How We Use Your Information
+We use the collected information for the following purposes:
+
+Authentication:
+To manage secure access to the app and restrict usage to one device per account.
+
+Educational Content Delivery:
+To provide AI-generated responses strictly relevant to the selected subtopics, ensuring safe and age-appropriate content.
+
+Personalization:
+To store and retrieve chat histories for seamless user experience across devices.
+
+Service Operation:
+To facilitate AI responses through trusted API providers.
+
+Payment Management:
+To process in-app purchases and manage credits for extended app usage.
+
+3. Sharing Your Information
+We respect your privacy and only share data in limited scenarios:
+
+Third-Party API Providers:
+
+We collaborate with AI service providers like Gemini 1.5 Flash-8B, Claude-Haiku, Nvidia Nemotron, and Mistral to generate responses. Limited interaction data may be shared strictly for query processing.
+
+Service Providers:
+Trusted third-party vendors handle cloud storage and payment processing securely.
+
+Legal Obligations:
+Data may be disclosed to comply with legal obligations or protect our legal rights.
+
+4. Child Privacy and Safety
+Subtopic is designed for users aged 13 and above. We are committed to providing a safe and age-appropriate experience for young users by ensuring the following:
+
+Age-Appropriate Content:
+AI-generated content is strictly related to educational subtopics and is carefully curated to avoid inappropriate or irrelevant responses.
+
+Thorough Prompt Review:
+While we rely on third-party API providers (e.g., Gemini Flash 3B, Claude-Haiku, Nvidia Nemotron, and Mistral) to generate AI responses, all prompts are thoroughly reviewed and rectified within our system before being sent to these providers. This ensures the responses remain relevant, appropriate, and suitable for young users.
+
+No Direct Data Collection from Children:
+We do not knowingly collect personal data from users under 13. If we become aware of such data being collected inadvertently, it will be promptly deleted.
+
+Parental or Guardian Consent:
+If you are between 13 and 18 years of age, you must obtain consent from a parent or guardian before using our application. By using Subtopic, you confirm that you have received such consent.
+
+5. Third-Party AI Providers
+
+To deliver AI-generated responses, Subtopic integrates with trusted third-party API providers, including but not limited to Gemini Flash-1.5 8B, Claude-Haiku, Nvidia Nemotron, and Mistral. These providers process user queries and context to generate responses relevant to the selected subtopics.
+
+We only share the minimum necessary data required for these services, such as the text of user queries and contextual information. We do not share personally identifiable information (e.g., email addresses or device IDs) with these providers.
+
+Each provider processes data under their own privacy policies, and we encourage you to review their terms:
+
+Gemini Flash 3B: https://policies.google.com/privacy
+Claude-Haiku: https://www.anthropic.com/legal/privacy
+Nvidia Nemotron: https://www.nvidia.com/en-us/about-nvidia/privacy-policy/
+Mistral: https://mistral.ai/terms/#privacy-policy
+By using Subtopic, you acknowledge that your data may be processed by these providers to enable app functionality.
+
+6. Data Storage and Retention
+Personal Information: Stored securely for the duration of your account activity.
+Chat Data: Retained in cloud storage for retrieval on any logged-in device.
+Device ID: Stored for single-device account management.
+
+7. Data Security
+We employ industry-standard measures to safeguard your data:
+End-to-end encryption for data in transit and at rest.
+Secure storage and regular audits to prevent unauthorized access.
+
+8. Your Rights
+You have the right to:
+Access: Request a copy of the personal data we hold about you.
+Correction: Update any inaccuracies in your information.
+Deletion: Request deletion of your account and associated data.
+Portability: Obtain a copy of your data in a portable format.
+To exercise your rights, contact us at subtopic.in@gmail.com
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy periodically. Notifications of significant changes will be posted within the app or emailed to registered users.
+
+10. Contact Us
+If you have questions about this Privacy Policy, contact us at:
+Email: subtopic.in@gmail.com
+
+By using Subtopic, you acknowledge and agree to this Privacy Policy.
